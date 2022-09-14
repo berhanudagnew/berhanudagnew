@@ -1,5 +1,6 @@
+
 <div id = "header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"/>
  </div>
 <div id="badges" align ="center">
   <a href="https://il.linkedin.com/in/berhanudagnew">
@@ -11,6 +12,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  
 </div>
 
 
@@ -22,12 +24,10 @@
 
 
 <h1 align="center">
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ---
 
@@ -80,10 +80,13 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ![GitHub metrics](https://metrics.lecoq.io/berhanudagnew)
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
+</div>
 
----
 
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
