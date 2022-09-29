@@ -69,7 +69,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=berhanudagnew&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=berhanudagnew&count_private=true&theme=buefy&showicons=true)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berhanudagnew&langs_count=10&theme=buefy)](https://github-readme-stats.vercel.app/api/top-langs/?username=berhanudagnew&langs_count=10&theme=buefy)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berhanudagnew&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=berhanudagnew&)
 
