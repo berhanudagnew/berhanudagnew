@@ -33,10 +33,9 @@
 
 ### :woman_technologist: About Me :
 
-I am a Software Developer| Automation Expert | Web Scraper | Data Extraction | Python Scraping <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
+I am a Software Developer | Automation Expert | Web Scraper | Data Extraction | Python Scraping <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building ML/AI, mobile and web applications.
-- :telescope: I specialize in automating tasks and excelling in web scraping, data extraction, and Python-based scraping techniques.
+- :telescope: I’m working as a Software Engineer Contributing to Frontend and Backend for Building Mobile and Descktop Applications, Specialize in Automating Tasks and Excelling in Web Scraping, Data Extraction, and Python-based Scraping Techniques.
   
 - :seedling: Exploring Technical Content Writing.
 
