@@ -36,7 +36,8 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Israel.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building ML/AI, mobile and web applications.
-
+- :telescope: I specialize in automating tasks and excelling in web scraping, data extraction, and Python-based scraping techniques.
+- 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
