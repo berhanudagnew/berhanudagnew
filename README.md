@@ -1,98 +1,38 @@
+# LastaRox
 
-<div id = "header" align="center">
-  <img src="https://media.giphy.com/media/fvx95jkua5th3YeThr/giphy.gif" width="200"/>
- </div>
-<div id="badges" align ="center">
-  <a href="https://il.linkedin.com/in/berhanudagnew">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  
-</div>
+### Technology Explorer & Technical Entrepreneur
 
-
-<div id="badges" align ="center">
-  <img src="https://komarev.com/ghpvc/?username=berhanudagnew&style=for-the-badge&color=blue" alt=""/>
-<a href="https://github.com/berhanudagnew">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/berhanudagnew?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" target="_blank"/></a></div>
-
-
-
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+Building, learning, and sharing emerging technologies with a focus on digital innovation, finance, open source, and entrepreneurship.
 
 ---
 
-### :woman_technologist: About Me :
+## 👋 About Me
 
-I am a Software Developer | Automation Expert | Web Scraper | Data Extraction | Python Scraping <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a technology explorer and technical entrepreneur focused on building systems across multiple domains including AI, finance, automation, and open-source software.
 
-- :telescope: I’m working as a Software Engineer Contributing to Frontend and Backend for Building Mobile and Descktop Applications, Specialize in Automating Tasks and Excelling in Web Scraping, Data Extraction, and Python-based Scraping Techniques.
-  
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)]([https://il.linkedin.com/in/berhanudagnew](https://il.linkedin.com/in/berhanudagnew))
+I enjoy turning ideas into real working prototypes and sharing what I learn along the way.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## 🧠 What I Build
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="dart" alt="dart" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+- Finance & trading systems
+- AI automation tools
+- Open-source developer tools
+- Mobile & web applications
+- Experimental systems (VPN, robotics, infrastructure)
 
 ---
 
-### :fire: My Stats :
+## 🚀 Current Focus
 
+- Open-source development
+- AI and automation systems
+- Financial technology tools
+- Experimental software projects
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=berhanudagnew&count_private=true&theme=buefy&showicons=true)](https://github-readme-stats.vercel.app/api/?username=berhanudagnew&count_private=true&theme=buefy&showicons=true)
+---
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=berhanudagnew&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+## 📫 Connect
 
-![My GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=berhanudagnew&)
-
-<br />
-
-## GitHub Metrics
-
-![GitHub metrics](https://metrics.lecoq.io/berhanudagnew)
-
-
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="250"/>
-</div>
-
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/itszed0/test-post-490g)
-<!-- BLOG-POST-LIST:END -->
-
+Building in public. Sharing what I learn. Open to collaboration.
